@@ -1,0 +1,9 @@
+{
+  "name": "google-forms-generator",
+  "version": "1.0.0",
+  "description": "Google Forms API client for the google-forms skill",
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
